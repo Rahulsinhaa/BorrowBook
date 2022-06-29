@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+.rahul{
+	
+	
+	
+  border: 1px solid maroon;
+  
+  flex-wrap: wrap;
+  align-content: center;
+  margin: 60px;
+	
+	
+}
+
+h1{
+	text-align: center;
+	color:white;
+	background-color: maroon;
+}
+
+input {
+	font-size:20px;
+	font-family: "Times New Roman", Times, serif;
+  background-color: maroon ;
+  color: white;
+}
